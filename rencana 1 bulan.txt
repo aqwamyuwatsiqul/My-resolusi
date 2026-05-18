@@ -2,4 +2,4 @@ Rencana 1 bualan
 - lolos seleksi
 - belajar web development (laravel,html,css,javascript)
 - belajar mechine learnning
-- belajar sql
+- belajar sql dan python
